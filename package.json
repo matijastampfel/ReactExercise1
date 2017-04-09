@@ -1,0 +1,19 @@
+{
+  "name": "react-exercise1",
+  "version": "1.0.0",
+  "description": "Exercise 1 react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matijastampfel/ReactExercise1.git"
+  },
+  "author": "Matija",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matijastampfel/ReactExercise1/issues"
+  },
+  "homepage": "https://github.com/matijastampfel/ReactExercise1#readme"
+}
